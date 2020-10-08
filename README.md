@@ -18,7 +18,7 @@
 
 ## PID SIMULATION CIRCUIT
 
-![PID Controller](Images/PID.jpg)
+![PID Controller](Images/PID.JPG)
 
 
 ![](Images/PID.PNG)
