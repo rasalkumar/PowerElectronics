@@ -28,7 +28,7 @@ Figure  : PID Controller
 
 ## FUZZY SIMULATION CIRCUIT
 
-![FUZZY  Controller](Images/FUZZY_system.PNG)
+![FUZZY  Controller](Images/Fuzzy_system.PNG)
 
 
 ![](Images/DCM.JPG)
