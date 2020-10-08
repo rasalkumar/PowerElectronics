@@ -19,16 +19,21 @@
 ## PID SIMULATION CIRCUIT
 
 ![PID Controller](Images/PID.jpg)
+
+
+![](Images/PID.PNG)
+
 Figure  : PID Controller
 
-![PID Controller](Images/PID.PNG)
 
 ## FUZZY SIMULATION CIRCUIT
 
 ![FUZZY  Controller](Images/FUZZY_system.PNG)
-Figure  : Fuzzy Logic Controller
 
-![FUZZY Controller](Images/DCM.JPG)
+
+![](Images/DCM.JPG)
+
+Figure  : Fuzzy Logic Controller
 
 ## RESULTS : 
 
